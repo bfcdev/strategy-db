@@ -6,12 +6,17 @@ TODO: Insert links to github repos.
 
 The entire system of stochastic based strategies originally developed by the BFC team.
 
-Trender Strategies
+### Denali Series
+
+[Trender Strategies](<https://github.com/bfcdev/tradingview-pinescripts/blob/de1af15386c641d67bde7c9696f48c8d3d785c55/APM-Trender-ETH-opt.pine>) 
 
 - Daily
   - ETH and BTC
 - 4 Hr
   - ETH
+  - SOL
+- 1 Hr
+  - [BNB](strategies/denali_params_dict.py)
   - SOL
 
 Strats created for Stacked
