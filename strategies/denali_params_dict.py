@@ -21,5 +21,16 @@
         "trimShort": 0.1470315,
         "trimLong": 0.07660551,
     },
-    
+"asset" : "BINANCESOLUSDT",
+    "sol_1h_solid_base":{ # Note, this works well at 8 hours for BTC as well
+        "Power1": 1.15,
+        "Power2": 0.90,
+        "Power3": 0.005,
+        "fastEMA": 7,
+        "slowEMA": 30,
+        "fastSMA": 37,
+        "slowSMA": 80,
+        "trimShort": 3,
+        "trimLong": 3,
+        },
 }
