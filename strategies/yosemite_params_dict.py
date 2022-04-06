@@ -52,4 +52,17 @@
         "margin long": 50, 
         "margin short": 50,
         },
+    "eth_2h_in_production":{
+        "start": 0.02,
+        "increment": 0.023,
+        "maximum": 0.2, 
+        "initial trade size": 100, 
+        "how many ticks": 100, 
+        "take profit change %": 7, 
+        "daily profit target change": 5, 
+        "order size": 100, 
+        "commission": 0.04, 
+        "margin long": 50, 
+        "margin short": 50,
     }
+}
