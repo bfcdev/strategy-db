@@ -64,5 +64,18 @@
         "commission": 0.04, 
         "margin long": 50, 
         "margin short": 50,
-    }
+        },
+    "BTC_2h_in_production":{
+        "start": 0.02,
+        "increment": 0.012,
+        "maximum": 0.2, 
+        "initial trade size": 100, 
+        "how many ticks": 100, 
+        "take profit change %": 10, 
+        "daily profit target change": 7, 
+        "order size": 60, 
+        "commission": 0.04, 
+        "margin long": 30, 
+        "margin short": 30,
+        },
 }
