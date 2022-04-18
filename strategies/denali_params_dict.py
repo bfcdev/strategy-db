@@ -34,6 +34,18 @@
             "trimShort": 0.03,
             "trimLong": 0.03,
             },
+        "bnb_1h_working_strat":{
+            "Power1": 1.15,
+            "Power2": 0.9,
+            "Power3": 0.005,
+            "fastEMA": 11,
+            "slowEMA": 30,
+            "fastSMA": 38,
+            "slowSMA": 50, 
+            "long/short":on,
+            "trimShort": off,
+            "trimLong": off,
+            },
     },
     "BINANCESOLUSDT":
         {
