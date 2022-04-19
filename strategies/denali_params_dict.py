@@ -35,7 +35,7 @@
             "trimLong": 0.03,
             },
         "bnb_1h_working_strat":{
-            "Power1": 1.15,
+            "Power1": 1.08,
             "Power2": 0.9,
             "Power3": 0.005,
             "fastEMA": 11,
