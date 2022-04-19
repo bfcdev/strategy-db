@@ -2,13 +2,13 @@
     {"BINANCEBNBUSDT":
         {"bnb_1h_solid_base":
             { 
-            "Power1": 1.05,
+            "Power1": 1.08,
             "Power2": 0.90,
             "Power3": 0.005,
-            "fastEMA": 21,
-            "slowEMA": 29,
-            "fastSMA": 16,
-            "slowSMA": 21,
+            "fastEMA": 11,
+            "slowEMA": 30,
+            "fastSMA": 38,
+            "slowSMA": 50,
             "trimShort": 2,
             "trimLong": 2,
             },
